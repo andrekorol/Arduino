@@ -9,13 +9,15 @@ This repo contains arduino projects and its source codes.
             └───getting-started
                     test.ino
 ## Interactive Repository Tree
-   .
-    │   **[README.md](README.md)**
-    │
-    └───src
-        └───projects
-            └───getting-started
-                    test.ino
+   .  
+    │   **[README.md](README.md)**  
+    │  
+    └───**[src](/src)/**  
+        └───**[projects](/src/projects)/**  
+            └───<summary>&nbsp;&nbsp;&nbsp;&nbsp;**[getting-started](/src/projects/getting-started)/**</summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[test.ino](/src/projects/getting-started/test.ino)**
+</details>
+                    
 
 
 
