@@ -2,7 +2,7 @@
 This repo contains arduino projects and its source codes.
 ## Repository Tree
     .
-    │&nbsp;&nbsp;&nbsp;&nbsp;   README.md
+    │   README.md
     │
     └───src
         └───projects
@@ -10,7 +10,7 @@ This repo contains arduino projects and its source codes.
                     test.ino
 ## Interactive Repository Tree
    .  
-    │   **[README.md](README.md)**  
+    │&nbsp;&nbsp;&nbsp;&nbsp;**[README.md](README.md)**  
     │  
     └───**[src](/src)/**  
         └───**[projects](/src/projects)/**  
