@@ -2,6 +2,7 @@
 This repo contains arduino projects and its source codes.
 ## Repository Tree
     .
+    │   .gitignore
     │   README.md
     │
     └───src
@@ -9,6 +10,7 @@ This repo contains arduino projects and its source codes.
             └───getting-started
                     test.ino
 ## Interactive Repository Tree
+**[.gitignore](.gitignore)**
 **[README.md](README.md)**  
 **[src](/src)/**  
 &nbsp;&nbsp;&nbsp;&nbsp;**[projects](/src/projects)/**<details><summary>&nbsp;&nbsp;&nbsp;&nbsp;**[getting-started](/src/projects/getting-started)/**</summary>
