@@ -17,8 +17,6 @@ This repo contains arduino projects and its source codes.
 **[README.md](README.md)**  
 **[src](/src)/**  
 &nbsp;&nbsp;&nbsp;&nbsp;**[projects](/src/projects)/**<details><summary>&nbsp;&nbsp;&nbsp;&nbsp;**[getting-started](/src/projects/getting-started)/**</summary>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[test.ino](/src/projects/getting-started/test.ino)**
-</details>  
-<details><summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[blink](/src/ptojects/gettin-started/blink)/**</summary>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[blink.ino](/src/ptojects/gettin-started/blink/blink.ino)**
-</details>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[test.ino](/src/projects/getting-started/test.ino)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[blink.ino](/src/projects/getting-started/blink.ino)**
+</details>
